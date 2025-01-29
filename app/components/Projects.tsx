@@ -4,13 +4,13 @@ const projects = [
   {
     title: "PaperK Store",
     description: "Galeria de proyectos de origami para descargar, con registro, validación y son la posibilidad de poder publicar proyectos propios",
-    image: "2.PNG",
+    image: "2.png",
     link: "https://proyectpaperk.store/",
   },
   {
     title: "Pomos",
     description: "Pomodoro con multitarea",
-    image: "3.PNG",
+    image: "3.png",
     link: "https://pomos-eight.vercel.app/",
   },
 ]

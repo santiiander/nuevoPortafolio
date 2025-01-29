@@ -19,7 +19,7 @@ export default function Hero() {
     <section className="text-center mb-16">
       <div className="mb-8">
         <Image
-          src="IMG_20241207_201600396.JPG"
+          src="IMG_20241207_201600396.jpg"
           alt="Santiago con su perrita y novia"
           width={300}
           height={300}
