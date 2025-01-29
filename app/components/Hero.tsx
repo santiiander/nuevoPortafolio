@@ -15,7 +15,6 @@ export default function Hero() {
     link.click()
     document.body.removeChild(link)
   }
-
   return (
     <section className="text-center mb-16">
       <div className="mb-8">
