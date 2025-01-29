@@ -9,7 +9,7 @@ export default function Hero() {
 
   const handleDownloadCV = () => {
     const link = document.createElement("a")
-    link.href = "CV.pdf"
+    link.href = "public/CV.pdf"
     link.download = "Santiago_Andermatten_CV.pdf"
     document.body.appendChild(link)
     link.click()
@@ -19,7 +19,7 @@ export default function Hero() {
     <section className="text-center mb-16">
       <div className="mb-8">
         <Image
-          src="/IMG_20241207_201600396.JPG"
+          src="public/IMG_20241207_201600396.JPG"
           alt="Santiago con su perrita y novia"
           width={300}
           height={300}
